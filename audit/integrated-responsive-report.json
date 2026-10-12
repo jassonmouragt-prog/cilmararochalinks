@@ -1,0 +1,419 @@
+{
+  "production": true,
+  "tool": "agent-browser",
+  "viewports": [
+    {
+      "heading": {
+        "bottom": 494.21875,
+        "height": 48.21875,
+        "left": 38,
+        "right": 335.546875,
+        "top": 446,
+        "width": 297.546875,
+        "x": 38,
+        "y": 446
+      },
+      "hero": {
+        "bottom": 838.125,
+        "height": 826.125,
+        "left": 12,
+        "right": 363,
+        "top": 12,
+        "width": 351,
+        "x": 12,
+        "y": 12
+      },
+      "imageLoaded": true,
+      "layout": "hero hero--integrated hero--image-right ",
+      "overflow": false,
+      "photo": {
+        "bottom": 342,
+        "height": 330,
+        "left": 12,
+        "right": 363,
+        "top": 12,
+        "width": 351,
+        "x": 12,
+        "y": 12
+      },
+      "portraitRadius": "0px",
+      "scrollWidth": 375,
+      "text": {
+        "bottom": 838.125,
+        "height": 496.125,
+        "left": 12,
+        "right": 363,
+        "top": 342,
+        "width": 351,
+        "x": 12,
+        "y": 342
+      },
+      "viewport": [
+        375,
+        812
+      ]
+    },
+    {
+      "heading": {
+        "bottom": 508.859375,
+        "height": 49.671875,
+        "left": 38,
+        "right": 344.53125,
+        "top": 459.1875,
+        "width": 306.53125,
+        "x": 38,
+        "y": 459.1875
+      },
+      "hero": {
+        "bottom": 852.765625,
+        "height": 840.765625,
+        "left": 12,
+        "right": 378,
+        "top": 12,
+        "width": 366,
+        "x": 12,
+        "y": 12
+      },
+      "imageLoaded": true,
+      "layout": "hero hero--integrated hero--image-right ",
+      "overflow": false,
+      "photo": {
+        "bottom": 355.1875,
+        "height": 343.1875,
+        "left": 12,
+        "right": 378,
+        "top": 12,
+        "width": 366,
+        "x": 12,
+        "y": 12
+      },
+      "portraitRadius": "0px",
+      "scrollWidth": 390,
+      "text": {
+        "bottom": 852.765625,
+        "height": 497.578125,
+        "left": 12,
+        "right": 378,
+        "top": 355.1875,
+        "width": 366,
+        "x": 12,
+        "y": 355.1875
+      },
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "heading": {
+        "bottom": 239.734375,
+        "height": 52.765625,
+        "left": 56,
+        "right": 381.625,
+        "top": 186.96875,
+        "width": 325.625,
+        "x": 56,
+        "y": 186.96875
+      },
+      "hero": {
+        "bottom": 608,
+        "height": 580,
+        "left": 28,
+        "right": 740,
+        "top": 28,
+        "width": 712,
+        "x": 28,
+        "y": 28
+      },
+      "imageLoaded": true,
+      "layout": "hero hero--integrated hero--image-right ",
+      "overflow": false,
+      "photo": {
+        "bottom": 608,
+        "height": 580,
+        "left": 397.6875,
+        "right": 740,
+        "top": 28,
+        "width": 342.3125,
+        "x": 397.6875,
+        "y": 28
+      },
+      "portraitRadius": "0px",
+      "scrollWidth": 768,
+      "text": {
+        "bottom": 608,
+        "height": 580,
+        "left": 28,
+        "right": 397.6875,
+        "top": 28,
+        "width": 369.6875,
+        "x": 28,
+        "y": 28
+      },
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "heading": {
+        "bottom": 332.375,
+        "height": 152.875,
+        "left": 264,
+        "right": 715.21875,
+        "top": 179.5,
+        "width": 451.21875,
+        "x": 264,
+        "y": 179.5
+      },
+      "hero": {
+        "bottom": 667.09375,
+        "height": 639.09375,
+        "left": 220,
+        "right": 1220,
+        "top": 28,
+        "width": 1000,
+        "x": 220,
+        "y": 28
+      },
+      "imageLoaded": true,
+      "layout": "hero hero--integrated hero--image-right ",
+      "overflow": false,
+      "photo": {
+        "bottom": 667.09375,
+        "height": 639.09375,
+        "left": 739.21875,
+        "right": 1220,
+        "top": 28,
+        "width": 480.78125,
+        "x": 739.21875,
+        "y": 28
+      },
+      "portraitRadius": "0px",
+      "scrollWidth": 1440,
+      "text": {
+        "bottom": 667.09375,
+        "height": 639.09375,
+        "left": 220,
+        "right": 739.21875,
+        "top": 28,
+        "width": 519.21875,
+        "x": 220,
+        "y": 28
+      },
+      "viewport": [
+        1440,
+        900
+      ]
+    }
+  ],
+  "errors": {
+    "success": true,
+    "data": {
+      "errors": [],
+      "lifecycle": {
+        "effectiveLaunch": {
+          "browserLaunched": true,
+          "engine": "chrome",
+          "launchHash": 11677035664275010974
+        },
+        "launched": false,
+        "relaunchedBrowser": false,
+        "restartedBackground": false,
+        "restoreStatus": "not_configured",
+        "reused": true,
+        "saveStatus": "not_attempted"
+      }
+    },
+    "error": null
+  },
+  "console": {
+    "success": true,
+    "data": {
+      "lifecycle": {
+        "effectiveLaunch": {
+          "browserLaunched": true,
+          "engine": "chrome",
+          "launchHash": 11677035664275010974
+        },
+        "launched": false,
+        "relaunchedBrowser": false,
+        "restartedBackground": false,
+        "restoreStatus": "not_configured",
+        "reused": true,
+        "saveStatus": "not_attempted"
+      },
+      "messages": [
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        },
+        {
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+          "type": "info"
+        }
+      ]
+    },
+    "error": null
+  }
+}

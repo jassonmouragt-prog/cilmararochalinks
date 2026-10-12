@@ -1,0 +1,143 @@
+[
+  {
+    "scenario": "preset-luxury-390",
+    "errors": [],
+    "theme": "luxury",
+    "name": "Marina Valença",
+    "niche": "Estética avançada",
+    "heroLayout": "hero hero--portrait-right ",
+    "portraitX": 27,
+    "contentX": 27,
+    "heroColor": "rgb(41, 41, 35)",
+    "accentColor": "#3f403a",
+    "portrait": "/_next/image?url=%2Fimages%2Fmarina-portrait.webp&w=3840&q=75",
+    "button": "Entre em contato",
+    "firstCard": "Agendar atendimento",
+    "firstCardHref": "mailto:contato@marinavalenca.example?subject=Agendamento",
+    "contactMethods": [
+      {
+        "label": "E-mail",
+        "href": "mailto:contato@marinavalenca.example"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "scenario": "preset-luxury-1440",
+    "errors": [],
+    "theme": "luxury",
+    "name": "Marina Valença",
+    "niche": "Estética avançada",
+    "heroLayout": "hero hero--portrait-right ",
+    "portraitX": 715,
+    "contentX": 242,
+    "heroColor": "rgb(41, 41, 35)",
+    "accentColor": "#3f403a",
+    "portrait": "/_next/image?url=%2Fimages%2Fmarina-portrait.webp&w=3840&q=75",
+    "button": "Entre em contato",
+    "firstCard": "Agendar atendimento",
+    "firstCardHref": "mailto:contato@marinavalenca.example?subject=Agendamento",
+    "contactMethods": [
+      {
+        "label": "E-mail",
+        "href": "mailto:contato@marinavalenca.example"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "scenario": "preset-modern-390",
+    "errors": [],
+    "theme": "modern",
+    "name": "Marina Valença",
+    "niche": "Estética avançada",
+    "heroLayout": "hero hero--portrait-top ",
+    "portraitX": 27,
+    "contentX": 27,
+    "heroColor": "rgb(25, 63, 52)",
+    "accentColor": "#276653",
+    "portrait": "/_next/image?url=%2Fimages%2Fmarina-portrait.webp&w=3840&q=75",
+    "button": "Entre em contato",
+    "firstCard": "Agendar atendimento",
+    "firstCardHref": "mailto:contato@marinavalenca.example?subject=Agendamento",
+    "contactMethods": [
+      {
+        "label": "E-mail",
+        "href": "mailto:contato@marinavalenca.example"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "scenario": "preset-modern-1440",
+    "errors": [],
+    "theme": "modern",
+    "name": "Marina Valença",
+    "niche": "Estética avançada",
+    "heroLayout": "hero hero--portrait-top ",
+    "portraitX": 242,
+    "contentX": 242,
+    "heroColor": "rgb(25, 63, 52)",
+    "accentColor": "#276653",
+    "portrait": "/_next/image?url=%2Fimages%2Fmarina-portrait.webp&w=3840&q=75",
+    "button": "Entre em contato",
+    "firstCard": "Agendar atendimento",
+    "firstCardHref": "mailto:contato@marinavalenca.example?subject=Agendamento",
+    "contactMethods": [
+      {
+        "label": "E-mail",
+        "href": "mailto:contato@marinavalenca.example"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "scenario": "no-photo-390",
+    "errors": [],
+    "theme": "editorial",
+    "name": "Marina Valença",
+    "niche": "Estética avançada",
+    "heroLayout": "hero hero--portrait-left hero--no-image",
+    "portraitX": 0,
+    "contentX": 27,
+    "heroColor": "rgb(37, 59, 52)",
+    "accentColor": "#576e60",
+    "button": "Entre em contato",
+    "firstCard": "Agendar atendimento",
+    "firstCardHref": "mailto:contato@marinavalenca.example?subject=Agendamento",
+    "contactMethods": [
+      {
+        "label": "E-mail",
+        "href": "mailto:contato@marinavalenca.example"
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "scenario": "other-niche-390",
+    "errors": [],
+    "theme": "modern",
+    "name": "Caio Monteiro",
+    "niche": "Arquitetura de interiores",
+    "heroLayout": "hero hero--portrait-top ",
+    "portraitX": 27,
+    "contentX": 27,
+    "heroColor": "rgb(66, 58, 53)",
+    "accentColor": "#9c5b46",
+    "portrait": "/_next/image?url=%2Fimages%2Fstudio-still-life.webp&w=3840&q=75",
+    "button": "Solicitar proposta",
+    "firstCard": "Solicitar projeto",
+    "firstCardHref": "https://wa.me/5511999999999?text=Ol%C3%A1!%20Gostaria%20de%20conversar%20sobre%20um%20projeto.",
+    "contactMethods": [
+      {
+        "label": "WhatsApp",
+        "href": "https://wa.me/5511999999999?text=Ol%C3%A1!%20Gostaria%20de%20conversar%20sobre%20um%20projeto."
+      },
+      {
+        "label": "E-mail",
+        "href": "mailto:contato@caiomonteiro.example"
+      }
+    ],
+    "overflow": false
+  }
+]

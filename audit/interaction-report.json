@@ -1,0 +1,58 @@
+{
+  "motionStart": {
+    "opacity": "1",
+    "transform": "none"
+  },
+  "motionEnd": {
+    "opacity": "1",
+    "transform": "none"
+  },
+  "motionChanges": [
+    {
+      "time": 286.79999999701977,
+      "style": "opacity: 0.0929114; transform: translateY(16.3276px);"
+    },
+    {
+      "time": 286.79999999701977,
+      "style": "opacity: 0.0929114; transform: translateY(16.3276px);"
+    },
+    {
+      "time": 286.79999999701977,
+      "style": "opacity: 0.0929114; transform: translateY(16.3276px);"
+    },
+    {
+      "time": 286.79999999701977,
+      "style": "opacity: 0.0929114; transform: translateY(16.3276px);"
+    },
+    {
+      "time": 286.79999999701977,
+      "style": "opacity: 0.0929114; transform: translateY(16.3276px);"
+    }
+  ],
+  "cardHover": {
+    "transform": "matrix(1, 0, 0, 1, 0, -4)",
+    "transition": "0.35s, 0.35s"
+  },
+  "links": {
+    "count": 8,
+    "unsafe": [],
+    "missingAnchors": [],
+    "blankWithoutRel": [],
+    "iconWithoutLabel": []
+  },
+  "serviceNavigation": "#servicos",
+  "keyboardFocus": {
+    "tag": "A",
+    "label": null,
+    "outline": "3px"
+  },
+  "errors": [],
+  "reducedMotion": {
+    "opacity": "1",
+    "transform": "none"
+  },
+  "noJavaScript": {
+    "heroVisible": true,
+    "cardCount": 4
+  }
+}

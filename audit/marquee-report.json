@@ -1,0 +1,114 @@
+[
+  {
+    "test": "marquee-mobile-375",
+    "status": 200,
+    "errors": [],
+    "transformChanged": true,
+    "viewportWidth": 375,
+    "documentWidth": 375,
+    "marquee": {
+      "x": 12,
+      "y": 383.09375,
+      "width": 351,
+      "height": 46
+    },
+    "heroBottom": 371.09375,
+    "cardsTop": 429.09375,
+    "copyWidths": [
+      1696.78125,
+      1696.7813720703125
+    ],
+    "copiesMatch": true,
+    "trackGap": "normal",
+    "trackWidth": 3393.5625,
+    "animationName": "marquee-left",
+    "animationDuration": "30s",
+    "hiddenCopies": true,
+    "spokenText": "EXPERIÊNCIA ✦ EXCLUSIVIDADE ✦ EXCELÊNCIA",
+    "visibleCycles": 6
+  },
+  {
+    "test": "marquee-mobile-390",
+    "status": 200,
+    "errors": [],
+    "transformChanged": true,
+    "viewportWidth": 390,
+    "documentWidth": 390,
+    "marquee": {
+      "x": 12,
+      "y": 799.421875,
+      "width": 366,
+      "height": 46
+    },
+    "heroBottom": 787.421875,
+    "cardsTop": 845.421875,
+    "copyWidths": [
+      1696.78125,
+      1696.7813720703125
+    ],
+    "copiesMatch": true,
+    "trackGap": "normal",
+    "trackWidth": 3393.5625,
+    "animationName": "marquee-left",
+    "animationDuration": "30s",
+    "hiddenCopies": true,
+    "spokenText": "EXPERIÊNCIA ✦ EXCLUSIVIDADE ✦ EXCELÊNCIA",
+    "visibleCycles": 6
+  },
+  {
+    "test": "marquee-desktop-1440",
+    "status": 200,
+    "errors": [],
+    "transformChanged": true,
+    "viewportWidth": 1440,
+    "documentWidth": 1440,
+    "marquee": {
+      "x": 220,
+      "y": 642.25,
+      "width": 1000,
+      "height": 58
+    },
+    "heroBottom": 624.25,
+    "cardsTop": 700.25,
+    "copyWidths": [
+      2303.25,
+      2303.25
+    ],
+    "copiesMatch": true,
+    "trackGap": "normal",
+    "trackWidth": 4606.5,
+    "animationName": "marquee-left",
+    "animationDuration": "30s",
+    "hiddenCopies": true,
+    "spokenText": "EXPERIÊNCIA ✦ EXCLUSIVIDADE ✦ EXCELÊNCIA",
+    "visibleCycles": 6
+  },
+  {
+    "test": "marquee-reduced-390",
+    "status": 200,
+    "errors": [],
+    "transformChanged": false,
+    "viewportWidth": 390,
+    "documentWidth": 390,
+    "marquee": {
+      "x": 12,
+      "y": 711.421875,
+      "width": 366,
+      "height": 134
+    },
+    "heroBottom": 699.421875,
+    "cardsTop": 845.421875,
+    "copyWidths": [
+      364,
+      0
+    ],
+    "copiesMatch": true,
+    "trackGap": "normal",
+    "trackWidth": 364,
+    "animationName": "none",
+    "animationDuration": "0s",
+    "hiddenCopies": true,
+    "spokenText": "EXPERIÊNCIA ✦ EXCLUSIVIDADE ✦ EXCELÊNCIA",
+    "visibleCycles": 1
+  }
+]

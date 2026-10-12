@@ -1,0 +1,374 @@
+[
+  {
+    "viewport": {
+      "name": "mobile-375",
+      "width": 375,
+      "height": 812
+    },
+    "status": 200,
+    "errors": [],
+    "title": "Marina Valença | Estética avançada",
+    "viewportWidth": 375,
+    "scrollWidth": 375,
+    "bodyWidth": 375,
+    "hero": {
+      "x": 12,
+      "y": 12,
+      "width": 351,
+      "height": 827
+    },
+    "heroPortrait": {
+      "x": 27,
+      "y": 82,
+      "width": 321,
+      "height": 289
+    },
+    "heroHeading": {
+      "x": 39,
+      "y": 431,
+      "width": 297,
+      "height": 96
+    },
+    "cards": [
+      {
+        "title": "Agendar atendimento",
+        "width": 345,
+        "height": 154,
+        "x": 15
+      },
+      {
+        "title": "Serviços",
+        "width": 345,
+        "height": 154,
+        "x": 15
+      },
+      {
+        "title": "Instagram",
+        "width": 345,
+        "height": 154,
+        "x": 15
+      },
+      {
+        "title": "Localização",
+        "width": 345,
+        "height": 135,
+        "x": 15
+      }
+    ],
+    "bodyFont": "\"DM Sans\", \"DM Sans Fallback\", sans-serif",
+    "pageColor": "rgb(244, 240, 233)",
+    "heroColor": "rgb(37, 59, 52)",
+    "images": [
+      {
+        "alt": "Retrato editorial da profissional fictícia Marina Valença",
+        "width": 375,
+        "height": 468,
+        "complete": true
+      },
+      {
+        "alt": "Objetos de cuidado em composição editorial",
+        "width": 142,
+        "height": 106,
+        "complete": true
+      },
+      {
+        "alt": "Retrato ilustrativo da profissional",
+        "width": 142,
+        "height": 178,
+        "complete": true
+      }
+    ],
+    "smallTargets": [],
+    "unsafeBlankLinks": [],
+    "missingAlt": 0,
+    "headingSequence": [
+      "H1:Marina Valença",
+      "H2:O seu próximo passo",
+      "H3:Agendar atendimento",
+      "H3:Serviços",
+      "H3:Instagram",
+      "H3:Localização",
+      "H2:Cuidado no seu tempo",
+      "H2:Vamos começar uma conversa?"
+    ]
+  },
+  {
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "status": 200,
+    "errors": [],
+    "title": "Marina Valença | Estética avançada",
+    "viewportWidth": 390,
+    "scrollWidth": 390,
+    "bodyWidth": 390,
+    "hero": {
+      "x": 12,
+      "y": 12,
+      "width": 366,
+      "height": 790
+    },
+    "heroPortrait": {
+      "x": 27,
+      "y": 82,
+      "width": 336,
+      "height": 300
+    },
+    "heroHeading": {
+      "x": 39,
+      "y": 442,
+      "width": 298,
+      "height": 48
+    },
+    "cards": [
+      {
+        "title": "Agendar atendimento",
+        "width": 360,
+        "height": 154,
+        "x": 15
+      },
+      {
+        "title": "Serviços",
+        "width": 360,
+        "height": 154,
+        "x": 15
+      },
+      {
+        "title": "Instagram",
+        "width": 360,
+        "height": 154,
+        "x": 15
+      },
+      {
+        "title": "Localização",
+        "width": 360,
+        "height": 135,
+        "x": 15
+      }
+    ],
+    "bodyFont": "\"DM Sans\", \"DM Sans Fallback\", sans-serif",
+    "pageColor": "rgb(244, 240, 233)",
+    "heroColor": "rgb(37, 59, 52)",
+    "images": [
+      {
+        "alt": "Retrato editorial da profissional fictícia Marina Valença",
+        "width": 390,
+        "height": 487,
+        "complete": true
+      },
+      {
+        "alt": "Objetos de cuidado em composição editorial",
+        "width": 148,
+        "height": 111,
+        "complete": true
+      },
+      {
+        "alt": "Retrato ilustrativo da profissional",
+        "width": 148,
+        "height": 185,
+        "complete": true
+      }
+    ],
+    "smallTargets": [],
+    "unsafeBlankLinks": [],
+    "missingAlt": 0,
+    "headingSequence": [
+      "H1:Marina Valença",
+      "H2:O seu próximo passo",
+      "H3:Agendar atendimento",
+      "H3:Serviços",
+      "H3:Instagram",
+      "H3:Localização",
+      "H2:Cuidado no seu tempo",
+      "H2:Vamos começar uma conversa?"
+    ]
+  },
+  {
+    "viewport": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 1024
+    },
+    "status": 200,
+    "errors": [],
+    "title": "Marina Valença | Estética avançada",
+    "viewportWidth": 768,
+    "scrollWidth": 768,
+    "bodyWidth": 768,
+    "hero": {
+      "x": 28,
+      "y": 28,
+      "width": 712,
+      "height": 570
+    },
+    "heroPortrait": {
+      "x": 50,
+      "y": 111,
+      "width": 287,
+      "height": 465
+    },
+    "heroHeading": {
+      "x": 376,
+      "y": 173,
+      "width": 327,
+      "height": 107
+    },
+    "cards": [
+      {
+        "title": "Agendar atendimento",
+        "width": 624,
+        "height": 174,
+        "x": 72
+      },
+      {
+        "title": "Serviços",
+        "width": 624,
+        "height": 174,
+        "x": 72
+      },
+      {
+        "title": "Instagram",
+        "width": 624,
+        "height": 174,
+        "x": 72
+      },
+      {
+        "title": "Localização",
+        "width": 624,
+        "height": 145,
+        "x": 72
+      }
+    ],
+    "bodyFont": "\"DM Sans\", \"DM Sans Fallback\", sans-serif",
+    "pageColor": "rgb(244, 240, 233)",
+    "heroColor": "rgb(37, 59, 52)",
+    "images": [
+      {
+        "alt": "Retrato editorial da profissional fictícia Marina Valença",
+        "width": 420,
+        "height": 525,
+        "complete": true
+      },
+      {
+        "alt": "Objetos de cuidado em composição editorial",
+        "width": 300,
+        "height": 225,
+        "complete": true
+      },
+      {
+        "alt": "Retrato ilustrativo da profissional",
+        "width": 300,
+        "height": 375,
+        "complete": true
+      }
+    ],
+    "smallTargets": [],
+    "unsafeBlankLinks": [],
+    "missingAlt": 0,
+    "headingSequence": [
+      "H1:Marina Valença",
+      "H2:O seu próximo passo",
+      "H3:Agendar atendimento",
+      "H3:Serviços",
+      "H3:Instagram",
+      "H3:Localização",
+      "H2:Cuidado no seu tempo",
+      "H2:Vamos começar uma conversa?"
+    ]
+  },
+  {
+    "viewport": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "status": 200,
+    "errors": [],
+    "title": "Marina Valença | Estética avançada",
+    "viewportWidth": 1440,
+    "scrollWidth": 1440,
+    "bodyWidth": 1440,
+    "hero": {
+      "x": 220,
+      "y": 28,
+      "width": 1000,
+      "height": 596
+    },
+    "heroPortrait": {
+      "x": 242,
+      "y": 111,
+      "width": 405,
+      "height": 491
+    },
+    "heroHeading": {
+      "x": 715,
+      "y": 163,
+      "width": 454,
+      "height": 167
+    },
+    "cards": [
+      {
+        "title": "Agendar atendimento",
+        "width": 912,
+        "height": 174,
+        "x": 264
+      },
+      {
+        "title": "Serviços",
+        "width": 912,
+        "height": 174,
+        "x": 264
+      },
+      {
+        "title": "Instagram",
+        "width": 912,
+        "height": 174,
+        "x": 264
+      },
+      {
+        "title": "Localização",
+        "width": 912,
+        "height": 152,
+        "x": 264
+      }
+    ],
+    "bodyFont": "\"DM Sans\", \"DM Sans Fallback\", sans-serif",
+    "pageColor": "rgb(244, 240, 233)",
+    "heroColor": "rgb(37, 59, 52)",
+    "images": [
+      {
+        "alt": "Retrato editorial da profissional fictícia Marina Valença",
+        "width": 420,
+        "height": 525,
+        "complete": true
+      },
+      {
+        "alt": "Objetos de cuidado em composição editorial",
+        "width": 300,
+        "height": 225,
+        "complete": true
+      },
+      {
+        "alt": "Retrato ilustrativo da profissional",
+        "width": 300,
+        "height": 375,
+        "complete": true
+      }
+    ],
+    "smallTargets": [],
+    "unsafeBlankLinks": [],
+    "missingAlt": 0,
+    "headingSequence": [
+      "H1:Marina Valença",
+      "H2:O seu próximo passo",
+      "H3:Agendar atendimento",
+      "H3:Serviços",
+      "H3:Instagram",
+      "H3:Localização",
+      "H2:Cuidado no seu tempo",
+      "H2:Vamos começar uma conversa?"
+    ]
+  }
+]
